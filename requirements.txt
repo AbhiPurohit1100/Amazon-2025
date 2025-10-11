@@ -1,0 +1,15 @@
+# Hugging Face PEFT (latest from GitHub)
+git+https://github.com/huggingface/peft.git
+
+# Hugging Face Transformers
+transformers
+
+# Sentence Transformers
+sentence-transformers
+
+# PyTorch and torchvision (will install latest stable version)
+torch
+torchvision
+
+# Progress bar utility
+tqdm
